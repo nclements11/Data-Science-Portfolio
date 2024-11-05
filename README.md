@@ -1,8 +1,4 @@
-# Data Scientist: Analytics Career Path
-
-This repository contains all my work and projects completed as part of the **Data Scientist: Analytics** Career Path offered by Codecademy.
-
-## Overview
+# Overview
 
 The **Data Scientist: Analytics** Career Path on Codecademy is designed to help learners develop key skills in data analysis and business intelligence. 
 It covers essential tools, programming languages, and techniques used in the data science industry, with a focus on analyzing data, identifying trends, and making informed decisions based on data insights.
