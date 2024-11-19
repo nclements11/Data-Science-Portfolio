@@ -5,7 +5,7 @@ It covers essential tools, programming languages, and techniques used in the dat
 
 ### Topics Covered:
 
-1. **Python Programming**
+1. **[Python Programming](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Python%20Basics)**
    - Basics of Python
    - Functions, loops, and conditionals
    - Data structures (lists, dictionaries, tuples)
