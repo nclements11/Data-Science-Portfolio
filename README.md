@@ -9,7 +9,7 @@ It covers essential tools, programming languages, and techniques used in the dat
    - Basics of Python
    - Functions, loops, and conditionals
    - Data structures (lists, dictionaries, tuples)
-   - [U.S. Medical Insurance Costs Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/blob/main/US%20Medical%20Insurance%20Costs/us-medical-insurance-costs.ipynb)
+   - [U.S. Medical Insurance Costs Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/US%20Medical%20Insurance%20Costs)
 
 2. **Data Manipulation with Pandas**
    - Introduction to Pandas library
