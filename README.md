@@ -9,7 +9,7 @@ It covers essential tools, programming languages, and techniques used in the dat
    - Basics of Python
    - Functions, loops, and conditionals
    - Data structures (lists, dictionaries, tuples)
-   - Object-Oriented Programming (OOP)
+   - U.S. Medical Insurance Costs Portfolio Project
 
 2. **Data Manipulation with Pandas**
    - Introduction to Pandas library
