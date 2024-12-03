@@ -5,13 +5,13 @@ It covers essential tools, programming languages, and techniques used in the dat
 
 ### Topics Covered:
 
-1. **[Python Programming](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Python%20Basics)**
+1. **[Python Programming](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Python%20Programming)**
    - Basics of Python
    - Functions, loops, and conditionals
    - Data structures (lists, dictionaries, tuples)
    - [U.S. Medical Insurance Costs Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/US%20Medical%20Insurance%20Costs)
 
-2. **Data Manipulation with Pandas**
+2. **[Data Manipulation with Pandas](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Manipulation%20with%20Pandas)**
    - Introduction to Pandas library
    - DataFrames and Series
    - Data cleaning and preparation
