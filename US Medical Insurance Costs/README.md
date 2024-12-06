@@ -1,6 +1,7 @@
 This project explores the relationships between various factors and medical insurance costs in the United States. Using a dataset that includes demographic and health-related information, we aim to understand how factors such as age, sex, BMI, number of children, smoking status, and geographical location influence insurance premiums.
 
-<img align="right" width="250" height="150" src="https://github.com/nclements11/Data-Science-Portfolio/blob/main/US%20Medical%20Insurance%20Costs/medical_image.jpeg">  <h1>Project Overview
+<img align="right" width="250" height="150" src="https://github.com/nclements11/Data-Science-Portfolio/blob/main/US%20Medical%20Insurance%20Costs/medical_image.jpeg">  <h1>Project Overview<h1>
+<br>
 
 The dataset includes the following features:
 
