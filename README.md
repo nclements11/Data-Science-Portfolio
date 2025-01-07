@@ -29,10 +29,10 @@ It covers essential tools, programming languages, and techniques used in the dat
    - Advanced SQL techniques
 
 5. **Statistics and Probability**
-   - Descriptive statistics
    - Probability distributions
+   - Inferential statistics
    - Hypothesis testing
-   - A/B Testing
+   - Linear regression
 
 6. **Machine Learning (Introductory)**
    - Supervised learning basics
