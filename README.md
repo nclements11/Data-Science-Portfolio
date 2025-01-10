@@ -28,7 +28,7 @@ It covers essential tools, programming languages, and techniques used in the dat
    - Aggregation, filtering, and JOIN operations
    - Advanced SQL techniques
 
-5. **Statistics and Probability**
+5. **[Statistics and Probability](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Statistics%20and%20Probability)**
    - Probability distributions
    - Inferential statistics
    - Hypothesis testing
