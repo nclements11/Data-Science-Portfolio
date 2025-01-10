@@ -47,7 +47,7 @@ It covers essential tools, programming languages, and techniques used in the dat
 ## Projects
 
 Throughout the path, I will complete several projects to demonstrate my proficiency in the skills learned. 
-These projects involve using real-world datasets to analyze trends, draw insights, and present data-driven recommendations.
+These projects involve using fictional and real-world datasets to analyze trends, draw insights, and present data-driven recommendations.
 
 ## Tools and Technologies
 
