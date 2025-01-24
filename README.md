@@ -17,7 +17,7 @@ It covers essential tools, programming languages, and techniques used in the dat
    - Data cleaning and preparation
    - Working with CSV files and other data formats
 
-3. **Data Visualization (https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization)**
+3. **[Data Visualization](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization)**
    - Data visualization using `Matplotlib` and `Seaborn`
    - Plotting graphs, bar charts, histograms, and scatter plots
    - Customizing and interpreting visual data
