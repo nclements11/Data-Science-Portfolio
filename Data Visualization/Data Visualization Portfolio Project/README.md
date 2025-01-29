@@ -4,10 +4,10 @@ For this project, I analyzed data on GDP and life expectancy from the World Heal
 
 The dataset includes the following features:
 
-- Country
-- Year
-- Life Expectancy
-- GDP
+- Country: The name of the country for which the data is recorded.
+- Year: The year in which the data was recorded.
+- Life expectancy at birth (years): The average number of years a person born in a given year can expect to live
+- GDP: The total GDP for each country and year. The numbers are often displayed in scientific notation, where "E+11" means the number is followed by 11 zeros (e.g., in the case of China, GDP in 2000 was approximately 1.211 trillion USD). 
 
 # Objective
 
