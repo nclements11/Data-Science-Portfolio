@@ -21,7 +21,7 @@ It covers essential tools, programming languages, and techniques used in the dat
    - Data visualization using `Matplotlib` and `Seaborn`
    - Plotting graphs, bar charts, histograms, and scatter plots
    - Customizing and interpreting visual data
-   - [Data Visualization Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/blob/main/Data%20Visualization/Data%20Visualization%20Portfolio%20Project/README.md)
+   - [Data Visualization Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization/Data%20Visualization%20Portfolio%20Project)
 
 4. **SQL for Data Science**
    - Introduction to SQL
