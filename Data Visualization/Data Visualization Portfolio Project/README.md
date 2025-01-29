@@ -19,3 +19,5 @@ This project aims to answer questions such as:
 
 Has life expectancy increased over time in the six nations? Has GDP increased over time in the six nations? Is there a correlation between GDP and life expectancy of country? What is the distribution of that life expectancy?
 
+Dataset
+The dataset used in this project is a CSV file containing a country's life expectancy and GDP for a given year. You can download the dataset from this [link](https://github.com/nclements11/Data-Science-Portfolio/blob/main/Data%20Visualization/Data%20Visualization%20Portfolio%20Project/all_data.csv)
