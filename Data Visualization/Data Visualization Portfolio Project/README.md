@@ -1,3 +1,5 @@
+<img align="right" width="250" height="150" src="https://github.com/nclements11/Data-Science-Portfolio/blob/main/Data%20Visualization/Data%20Visualization%20Portfolio%20Project/gdp_image.jpg"> 
+
 For this project, I analyzed data on GDP and life expectancy from the World Health Organization and the World Bank to try and identify the relationship between the GDP and life expectancy of six countries.
 
 # Project Overview
