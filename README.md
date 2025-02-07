@@ -23,24 +23,30 @@ It covers essential tools, programming languages, and techniques used in the dat
    - Customizing and interpreting visual data
    - [Data Visualization Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization/Data%20Visualization%20Portfolio%20Project)
 
-4. **SQL for Data Science**
-   - Introduction to SQL
-   - Querying databases
-   - Aggregation, filtering, and JOIN operations
-   - Advanced SQL techniques
-
-5. **[Statistics and Probability](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Statistics%20and%20Probability)**
+4. **[Statistics and Probability](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Statistics%20and%20Probability)**
    - Probability distributions
    - Inferential statistics
    - Hypothesis testing
    - Linear regression
 
-6. **Machine Learning (Introductory)**
+5. **Data Wrangling, Cleaning, and Tidying**
+   - Handling missing and duplicate data
+   - Data transformation and feature engineering
+   - Tidying data using pandas for analysis
+   - Merging and reshaping datasets for analysis
+
+6. **SQL for Data Science**
+   - Introduction to SQL
+   - Querying databases
+   - Aggregation, filtering, and JOIN operations
+   - Advanced SQL techniques
+
+7. **Machine Learning (Introductory)**
    - Supervised learning basics
    - Introduction to linear regression
    - Model evaluation and validation
 
-7. **Real-World Applications**
+8. **Real-World Applications**
    - Business problem-solving through data analytics
    - Presenting findings to stakeholders
    - Case studies and capstone projects
