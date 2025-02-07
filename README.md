@@ -17,19 +17,19 @@ It covers essential tools, programming languages, and techniques used in the dat
    - Data cleaning and preparation
    - Working with CSV files and other data formats
 
-3. **[Data Visualization](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization)**
-   - Data visualization using `Matplotlib` and `Seaborn`
-   - Plotting graphs, bar charts, histograms, and scatter plots
-   - Customizing and interpreting visual data
-   - [Data Visualization Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization/Data%20Visualization%20Portfolio%20Project)
-
-4. **[Statistics and Probability](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Statistics%20and%20Probability)**
+3. **[Statistics and Probability](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Statistics%20and%20Probability)**
    - Probability distributions
    - Inferential statistics
    - Hypothesis testing
    - Linear regression
 
-5. **Data Wrangling, Cleaning, and Tidying**
+4. **[Data Visualization](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization)**
+   - Data visualization using `Matplotlib` and `Seaborn`
+   - Plotting graphs, bar charts, histograms, and scatter plots
+   - Customizing and interpreting visual data
+   - [Data Visualization Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization/Data%20Visualization%20Portfolio%20Project)
+
+5. **[Data Wrangling, Cleaning, and Tidying](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Wrangling%2C%20Cleaning%2C%20and%20Tidying)**
    - Handling missing and duplicate data
    - Data transformation and feature engineering
    - Tidying data using pandas for analysis
