@@ -31,9 +31,9 @@ It covers essential tools, programming languages, and techniques used in the dat
 
 5. **[Data Wrangling, Cleaning, and Tidying](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Wrangling%2C%20Cleaning%2C%20and%20Tidying)**
    - Handling missing and duplicate data
-   - Data transformation and feature engineering
    - Tidying data using pandas for analysis
    - Merging and reshaping datasets for analysis
+   - [Biodiversity Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/blob/main/Biodiversity%20Portfolio%20Project/biodiversity.ipynb)
 
 6. **SQL for Data Science**
    - Introduction to SQL
