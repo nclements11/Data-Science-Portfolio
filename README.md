@@ -40,16 +40,8 @@ It covers essential tools, programming languages, and techniques used in the dat
    - Querying databases
    - Aggregation, filtering, and JOIN operations
    - Advanced SQL techniques
-
-7. **Machine Learning (Introductory)**
-   - Supervised learning basics
-   - Introduction to linear regression
-   - Model evaluation and validation
-
-8. **Real-World Applications**
-   - Business problem-solving through data analytics
-   - Presenting findings to stakeholders
-   - Case studies and capstone projects
+  
+7. **Tableu**
 
 ## Projects
 
