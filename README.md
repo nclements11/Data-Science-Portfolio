@@ -27,19 +27,19 @@ It covers essential tools, programming languages, and techniques used in the dat
    - Data visualization using `Matplotlib` and `Seaborn`
    - Plotting graphs, bar charts, histograms, and scatter plots
    - Customizing and interpreting visual data
-   - [Data Visualization Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization/Data%20Visualization%20Portfolio%20Project)
+   - [Data Visualization Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization%20Portfolio%20Project)
 
 5. **Data Wrangling, Cleaning, and Tidying**
    - Handling missing and duplicate data
    - Tidying data using pandas for analysis
    - Merging and reshaping datasets for analysis
-   - [Biodiversity Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/blob/main/Data%20Wrangling%2C%20Cleaning%2C%20and%20Tidying/Biodiversity%20Portfolio%20Project/biodiversity.ipynb)
+   - [Biodiversity Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/blob/main/Biodiversity%20Portfolio%20Project/biodiversity.ipynb)
 
 6. **SQL for Data Science**
    - Querying databases
    - Aggregation, filtering, and JOIN operations
    - Advanced SQL techniques
-   - [Marketing Attribution Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/SQL%20for%20Data%20Science)
+   - [Marketing Attribution Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/blob/main/Marketing%20Attribution.pdf)
   
 7. **Tableu**
    - 	Build interactive Tableau dashboards
