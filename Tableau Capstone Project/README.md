@@ -1,4 +1,4 @@
-<img align="https://github.com/nclements11/Data-Science-Portfolio/blob/main/Tableau%20Capstone%20Project/airplane_wildlife.jpg"> 
+<img align="right" width="250" height="150" src="https://github.com/nclements11/Data-Science-Portfolio/blob/main/Tableau%20Capstone%20Project/airplane_wildlife.jpg"> 
 
 # Overview
 
