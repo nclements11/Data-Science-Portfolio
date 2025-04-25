@@ -5,43 +5,47 @@ It covers essential tools, programming languages, and techniques used in the dat
 
 ### Topics Covered:
 
-1. **[Python Programming](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Python%20Programming)**
+1. **Python Programming**
    - Basics of Python
    - Functions, loops, and conditionals
    - Data structures (lists, dictionaries, tuples)
    - [U.S. Medical Insurance Costs Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/US%20Medical%20Insurance%20Costs)
 
-2. **[Data Manipulation with Pandas](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Manipulation%20with%20Pandas)**
+2. **Data Manipulation with Pandas**
    - Introduction to Pandas library
    - DataFrames and Series
    - Data cleaning and preparation
    - Working with CSV files and other data formats
 
-3. **[Statistics and Probability](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Statistics%20and%20Probability)**
+3. **Statistics and Probability**
    - Probability distributions
    - Inferential statistics
    - Hypothesis testing
    - Linear regression
 
-4. **[Data Visualization](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization)**
+4. **Data Visualization**
    - Data visualization using `Matplotlib` and `Seaborn`
    - Plotting graphs, bar charts, histograms, and scatter plots
    - Customizing and interpreting visual data
    - [Data Visualization Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Visualization/Data%20Visualization%20Portfolio%20Project)
 
-5. **[Data Wrangling, Cleaning, and Tidying](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Data%20Wrangling%2C%20Cleaning%2C%20and%20Tidying)**
+5. **Data Wrangling, Cleaning, and Tidying**
    - Handling missing and duplicate data
    - Tidying data using pandas for analysis
    - Merging and reshaping datasets for analysis
    - [Biodiversity Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/blob/main/Data%20Wrangling%2C%20Cleaning%2C%20and%20Tidying/Biodiversity%20Portfolio%20Project/biodiversity.ipynb)
 
-6. **[SQL for Data Science](https://github.com/nclements11/Data-Science-Portfolio/tree/main/SQL%20for%20Data%20Science)**
-   - Introduction to SQL
+6. **SQL for Data Science**
    - Querying databases
    - Aggregation, filtering, and JOIN operations
    - Advanced SQL techniques
+   - [Marketing Attribution Portfolio Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/SQL%20for%20Data%20Science)
   
 7. **Tableu**
+   - 	Build interactive Tableau dashboards
+   - 	Join and visualize data
+   - 	Design compelling data stories
+   - 	Tableau Capstone Project
 
 ## Projects
 
@@ -52,8 +56,7 @@ These projects involve using fictional and real-world datasets to analyze trends
 
 - **Programming Languages:** Python, SQL
 - **Libraries:** Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn
-- **Databases:** SQLite, PostgreSQL
-- **Version Control:** Git, GitHub
+- **Databases:** SQLite
 
 ## Installation and Usage
 
