@@ -45,7 +45,7 @@ It covers essential tools, programming languages, and techniques used in the dat
    - 	Build interactive Tableau dashboards
    - 	Join and visualize data
    - 	Design compelling data stories
-   - 	Tableau Capstone Project
+   - 	[Tableau Capstone Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Tableau%20Capstone%20Project)
 
 ## Projects
 
