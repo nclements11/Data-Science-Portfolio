@@ -4,7 +4,10 @@ The **Data Scientist: Analytics** Career Path on Codecademy is designed to help 
 It covers essential tools, programming languages, and techniques used in the data science industry, with a focus on analyzing data, identifying trends, and making informed decisions based on data insights.
 
 ### Topics Covered:
-
+<div class="two-column">
+   {Content for column 1}
+   {Content for column 2}
+</div>
 1. **Python Programming**
    - Basics of Python
    - Functions, loops, and conditionals
