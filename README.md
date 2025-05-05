@@ -47,10 +47,9 @@ It covers essential tools, programming languages, and techniques used in the dat
    - 	Design compelling data stories
    - 	[Tableau Capstone Project](https://github.com/nclements11/Data-Science-Portfolio/tree/main/Tableau%20Capstone%20Project)
 
-## Projects
+## Capstone Project
 
-Throughout the path, I will complete several projects to demonstrate my proficiency in the skills learned. 
-These projects involve using fictional and real-world datasets to analyze trends, draw insights, and present data-driven recommendations.
+This capstone project serves as a comprehensive demonstration of the skills and knowledge I acquired throughout the certificate program. Focusing on NBA data, I conducted a thorough analysis using Python for data manipulation, statistical analysis, and visualization.
 
 ## Tools and Technologies
 
