@@ -49,7 +49,7 @@ It covers essential tools, programming languages, and techniques used in the dat
 
 ## Capstone Project
 
-This capstone project serves as a comprehensive demonstration of the skills and knowledge I acquired throughout the certificate program. Focusing on NBA data, I conducted a thorough analysis using Python for data manipulation, statistical analysis, and visualization.
+This capstone project serves as a comprehensive demonstration of the skills and knowledge I acquired throughout the certificate program. Focusing on NBA data, I conducted a thorough analysis using Python for data manipulation, statistical analysis, and visualization. You can view the project here: [NBA Analysis](https://github.com/nclements11/Data-Science-Portfolio/blob/main/Capstone%20Project/NBA%20Analysis.ipynb)
 
 ## Tools and Technologies
 
